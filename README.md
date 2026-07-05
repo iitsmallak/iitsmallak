@@ -1,45 +1,25 @@
 <div align="center">
 
-# 𝓜𝓪𝓵𝓵𝓪𝓴
+# 𝐌𝐚𝐥𝐥𝐚𝐤
 
-### `Information Security Graduate`
+`Information Security Graduate`
 
-Cybersecurity • Blue Team • SIEM • Linux
+Blue Team • SOC • SIEM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=6EA8FE&center=true&vCenter=true&width=350&lines=Always+Learning..." />
+
+</div>
 
 <br>
 
-<a href="https://www.linkedin.com/in/mallakhafed">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### About
-
-```txt
-🛡 Blue Team
-☁ Private Cloud
-🐧 Linux
-📊 Wazuh SIEM
+```yaml
+Focus:
+  - Blue Team
+  - Wazuh
+  - Linux
+  - Private Cloud
 ```
 
----
-
-### Tech
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,java,bash,git,github"/>
+<img src="https://skillicons.dev/icons?i=linux,python,java,git,github"/>
 </p>
-
----
-
-<div align="center">
-
-> *"Learning. Building. Securing."*
-
-</div>
