@@ -45,3 +45,17 @@ Passionate about Cybersecurity, Security Monitoring, Linux, and Secure System Ad
 ## 🌐 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mallakhafed
+- ┌─────────────────────────────────────────────┐
+│  > whoami                                   │
+│  Mallak                                     │
+│                                             │
+│  > role                                     │
+│  Information Security Graduate              │
+│                                             │
+│  > skills                                   │
+│  Java | Linux | SIEM | Wazuh | TrueNAS      │
+│                                             │
+│  > status                                   │
+│  Building secure systems... ████████        │
+└─────────────────────────────────────────────┘
+- 
