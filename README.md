@@ -15,6 +15,11 @@ Information Security Graduate
 <br>
 
 ```yaml
-Focus:
+  Focus:
   - Information Security
   - Cybersecurity
+  - SIEM & Log Analysis
+  - Threat Detection
+  - Incident Response
+  - Linux Security
+  - Network Security
