@@ -1,27 +1,32 @@
-# Hi, I'm Mallak 
+# Hi, I am Mallak .H
 
-## Information Security Graduate
+Information Security Graduate
 
-I'm passionate about Information Security, SOC operations, Network Security, and System Administration.
+## About
 
-### Skills
+Information Security graduate interested in SOC, SIEM, Network Security, and System Administration. This GitHub contains my academic and personal cybersecurity projects.
 
-- 🛡️ Wazuh SIEM
-- 🌐 Network Security
-- 📊 Wireshark
-- 💻 Windows & Linux
-- 🐍 Python
-- ☕ Java
-- 🖥️ VMware & VirtualBox
+## Skills
 
-### Featured Projects
+- Wazuh SIEM
+- Wireshark
+- Active Directory
+- Windows
+- Linux
+- Python
+- Java
+- VMware
+- VirtualBox
 
-- 🛡️ Wazuh SIEM Security Monitoring
-- ☁️ Private Cloud Storage (TrueNAS + Nextcloud)
-- 🔐 Java Authentication System
-- 🌐 Cisco Network 
+## Projects
 
-### Contact
+- Wazuh SIEM Security Monitoring
+- Private Cloud Storage (TrueNAS + Nextcloud)
+- Java Authentication System
 
-- 📧 Email: itsmalakemail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/mallakhafed
+## Contact
+
+Email: itsmalakemail@gmail.com
+
+LinkedIn:
+linkedin.com/in/mallakhafed
