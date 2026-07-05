@@ -1,4 +1,4 @@
-# Hi, I am Mallak .H
+ Mallak .H
 
 Information Security Graduate
 
