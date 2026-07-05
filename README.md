@@ -1,24 +1,36 @@
-# Hi there 👋 Here Mallak
+<h1 align="center">Hi 👋, I'm Mallak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Information+Security+Graduate;Cybersecurity+Enthusiast;SIEM+%7C+Linux+%7C+Network+Security;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=Information+Security+Graduate;Cybersecurity+Enthusiast;SIEM+%7C+Linux+%7C+Network+Security;Always+Learning+and+Building" />
 </p>
 
-## 🛠️ Skills
+<p align="center">
+🔐 Information Security Graduate passionate about building secure systems and exploring cybersecurity technologies.
+</p>
 
-- Java
-- Linux
-- Wazuh SIEM
-- TrueNAS
-- Nextcloud
-- Git & GitHub
+---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-- Java Authentication System
-- Wazuh SIEM Monitoring
-- TrueNAS & Nextcloud Setup
+💻 Java  
+🐧 Linux  
+🛡️ Wazuh SIEM  
+☁️ TrueNAS & Nextcloud  
+🌐 Networking  
+📂 Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Java Authentication System
+
+🔹 Wazuh SIEM Monitoring
+
+🔹 TrueNAS & Nextcloud Setup
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/mallakhafed
+💼 LinkedIn: https://www.linkedin.com/in/mallakhafed
