@@ -5,7 +5,8 @@
 <br>
 
 <em style="font-weight:300; font-style:italic;">
-information Security Student , Focused on Cybersecurity , SOC & Threat Detection. Interested with virtual labs and academic cybersecurity projects.
+information Security Student , Focused on Cybersecurity , SOC & Threat Detection. Interested with virtual 
+  labs and academic cybersecurity projects.
 </em>
 
 </div>
