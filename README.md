@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#6EA8FE;"></span>
+# <span style="color:#6EA8FE;">Mallak</span>
 
 <em style="font-weight:300; font-style:italic;">
 Information Security Graduate
@@ -15,7 +15,7 @@ Information Security Graduate
 <br>
 
 ```yaml
-  Focus:
+Focus:
   - Information Security
   - Cybersecurity
   - SIEM & Log Analysis
