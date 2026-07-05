@@ -2,11 +2,10 @@
 
 # Hi, I'm Mallak 👋
 
-### Information Security Graduate | Aspiring SOC & Blue Team Analyst
+### Information Security Graduate
+### Aspiring SOC Analyst • Blue Team • SIEM
 
-<p>
-Passionate about cybersecurity, security monitoring, Linux, and building secure infrastructure.
-</p>
+*"Building secure systems, one project at a time."*
 
 <p>
 <a href="https://www.linkedin.com/in/mallakhafed">
@@ -23,46 +22,45 @@ Passionate about cybersecurity, security monitoring, Linux, and building secure 
 
 ---
 
-## 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-```yaml
-Name: Mallak
-Education: B.Sc. Information Security
-Focus: Blue Team | SOC | SIEM
-Location: Oman 🇴🇲
+I'm an Information Security graduate passionate about defending systems, monitoring threats, and continuously improving my cybersecurity skills.
 
-Currently Learning:
-  - Threat Detection
-  - Incident Response
-  - Windows Event Analysis
-  - Linux Security
-
-Interests:
-  - Security Monitoring
-  - Private Cloud
-  - Digital Forensics
-```
+- 🛡️ Interested in **SOC Operations** & **Blue Team**
+- 📊 Working with **Wazuh SIEM**
+- ☁️ Building secure private cloud solutions
+- 🐧 Linux enthusiast
+- 🌱 Currently learning Incident Response & Threat Hunting
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
-### 🛡️ Wazuh SIEM Monitoring
-Configured a SIEM environment to collect, monitor, and analyze Windows and Linux logs while investigating security events in a lab environment.
+### 🛡️ Wazuh SIEM Security Monitoring
 
-### ☁️ Secure Private Cloud
-Built a secure private cloud using **TrueNAS** and **Nextcloud** with centralized storage and user access management.
+- Collected and analyzed Windows & Linux logs
+- Investigated security alerts
+- Built detection rules in a lab environment
+
+### ☁️ Private Cloud Storage
+
+- Built using **TrueNAS** & **Nextcloud**
+- Configured centralized storage
+- Managed users and permissions securely
 
 ### 🔐 Java Authentication System
-Developed a secure authentication system implementing login validation and user management.
+
+- Secure login & registration
+- Password validation
+- User management
 
 ---
 
-## ⚙️ Technologies
+# 🧰 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,java,bash,git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,python,java,bash,git,github,mysql,vscode"/>
 
 </p>
 
@@ -71,24 +69,25 @@ Developed a secure authentication system implementing login validation and user 
 <img src="https://img.shields.io/badge/Wazuh-0055A4?style=flat-square"/>
 <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/SIEM-0A66C2?style=flat-square"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iitsmallak&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=iitsmallak&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitsmallak&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitsmallak&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=iitsmallak&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=iitsmallak&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -96,6 +95,8 @@ Developed a secure authentication system implementing login validation and user 
 
 <div align="center">
 
-> *"Learning never stops. Every project is another step toward becoming a better security analyst."*
+### 💙 Always Learning
+
+> *"Cybersecurity is a journey of continuous learning, curiosity, and persistence."*
 
 </div>
