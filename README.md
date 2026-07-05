@@ -16,8 +16,9 @@ information Security , Focused on Cybersecurity , SOC & Threat Detection. Intere
 Focus:
   - Information Security
   - Cybersecurity
-  - SIEM & Log Analysis
+  - Wazuh SIEM
+  - Log Analysis
   - Threat Detection
-  - Incident Response
   - Linux Security
   - Network Security
+  - Incident Response
