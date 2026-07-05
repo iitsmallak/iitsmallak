@@ -29,4 +29,4 @@ Information Security graduate interested in SOC, SIEM, Network Security, and Sys
 Email: itsmalakemail@gmail.com
 
 LinkedIn:
-linkedin.com/in/mallakhafed
+https://www.linkedin.com/in/mallakhafed 
