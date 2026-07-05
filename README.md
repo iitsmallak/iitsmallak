@@ -23,3 +23,8 @@ Focus:
   - Incident Response
   - Linux Security
   - Network Security
+<p align="center">
+  <a href="https://www.linkedin.com/in/Mallakhafed">
+    LinkedIn
+  </a>
+</p>
