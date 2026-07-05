@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#6EA8FE;">Mallak</span>
+# <span style="color:#6EA8FE;"></span>
 
 <em style="font-weight:300; font-style:italic;">
 Information Security Graduate
