@@ -1,66 +1,93 @@
-<h1 align="center">Hi, I'm Malk 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Cybersecurity Analyst | Information Security Graduate
-</h3>
+# Hi, I'm Malk 👋
+
+### Information Security Graduate • Aspiring Cybersecurity Analyst
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Blue+Team+%7C+SOC;Private+Cloud+Infrastructure;SIEM+Monitoring+%26+Threat+Detection;Always+Learning+Something+New" />
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Information Security Graduate
-- 🛡️ Passionate about Blue Team & SOC
-- ☁️ Interested in Private Cloud & System Administration
-- 🌱 Currently improving my skills in SIEM, DFIR, and Linux
+- 🛡️ Interested in Blue Team, SOC Operations and SIEM
+- ☁️ Building secure private cloud infrastructure
+- 🐧 Linux enthusiast
+- 📚 Continuously learning and improving
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⭐ Wazuh SIEM Monitoring
-Security monitoring and log analysis using Wazuh.
-
-### ⭐ Secure Private Cloud Storage System
-Private cloud storage using TrueNAS and Nextcloud.
-
-### ⭐ Java Authentication System
-Secure authentication system built with Java.
+| Project | Description |
+|---------|-------------|
+| 🛡️ **Wazuh SIEM Monitoring** | Security monitoring, log collection and threat detection using Wazuh. |
+| ☁️ **Secure Private Cloud Storage System** | Built a secure private cloud using TrueNAS and Nextcloud. |
+| 🔐 **Java Authentication System** | Authentication system implementing secure login mechanisms. |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=linux,java,python,bash,git,github,vscode,mysql"/>
 
-## 📊 GitHub Stats
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Wazuh-0055A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## Activity Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+*"Security is not a product, but a process."*
+
+</div>
