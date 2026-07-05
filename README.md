@@ -1,36 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mallak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=Information+Security+Graduate;Cybersecurity+Enthusiast;SIEM+%7C+Linux+%7C+Network+Security;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Information+Security+Graduate;Cybersecurity+Enthusiast;SIEM+%7C+Linux+%7C+Network+Security;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-🔐 Information Security Graduate passionate about building secure systems and exploring cybersecurity technologies.
+Passionate about Cybersecurity, Security Monitoring, Linux, and Secure System Administration.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-💻 Java  
-🐧 Linux  
-🛡️ Wazuh SIEM  
-☁️ TrueNAS & Nextcloud  
-🌐 Networking  
-📂 Git & GitHub
+- 🎓 Information Security Graduate
+- 🔐 Interested in Cybersecurity & Security Operations
+- 🌱 Currently improving my SIEM, Linux, and Network Security skills
+- 💡 Passionate about learning and building practical security projects
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills
 
-🔹 Java Authentication System
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,linux,git,github" />
+</p>
 
-🔹 Wazuh SIEM Monitoring
-
-🔹 TrueNAS & Nextcloud Setup
+**Cybersecurity**
+- Wazuh SIEM
+- TrueNAS
+- Nextcloud
+- Network Security
+- Authentication Systems
 
 ---
 
-## 📫 Connect with Me
+## 📂 Featured Projects
 
-💼 LinkedIn: https://www.linkedin.com/in/mallakhafed
+- 🔐 Java Authentication System
+- 📊 Wazuh SIEM Monitoring
+- ☁️ TrueNAS & Nextcloud Setup
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mallakhafed
