@@ -5,8 +5,7 @@
 <br>
 
 <em style="font-weight:300; font-style:italic;">
-information Security , Focused on Cybersecurity , SOC & Threat Detection. Passionate about building virtual labs and hands-on cybersecurity projects.
-</em>
+Interested in cybersecurity and continuously expanding my knowledge in security operations, SIEM, incident response, and AI-driven security solutions. Focused on developing my technical skills through hands-on experience, practical projects, and real-world security challenges while strengthening my understanding of information security practices.</em>
 
 </div>
 
