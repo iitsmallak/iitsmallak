@@ -13,10 +13,12 @@ Focused on Cybersecurity & Information Security. Passionate about building virtu
 
 ```yaml
 Focus:
+  - Cybersecurity
   - Security Operations
-  - Wazuh SIEM
-  - Log Analysis
+  - SOC & SIEM
   - Threat Detection
-  - Linux Security
-  - Network Security
   - Incident Response
+  - Network Security
+  - Linux Security
+  - AI Security
+  - Security Monitoring
