@@ -18,7 +18,5 @@ Focus:
   - SOC & SIEM
   - Threat Detection
   - Incident Response
-  - Network Security
-  - Linux Security
   - AI Security
   - Security Monitoring
