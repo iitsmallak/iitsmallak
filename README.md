@@ -15,8 +15,5 @@ Focused on Cybersecurity & Information Security. Passionate about building virtu
 Focus:
   - Cybersecurity
   - Security Operations
-  - SOC & SIEM
-  - Threat Detection
-  - Incident Response
   - AI Security
-  - Security Monitoring
+  
